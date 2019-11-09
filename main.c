@@ -1,3 +1,14 @@
+/*
+
+ogg2mogg
+by Michael Tolly (onyxite)
+built on research by xorloser and maxton
+
+Code is in the public domain.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+*/
+
 #include <stdio.h>
 #include <stdint.h>
 #include "vorbis/vorbisfile.h"
